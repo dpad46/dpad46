@@ -2,7 +2,7 @@
 <p align="center">Hi, I'm a third year Computer Science and Music student at McGill University. I like games.</p>
 
 <h2>Current Projects</h2>
-<li> Ubisoft Game Labs Competition 2021
+<li> Ubisoft Game Lab Competition 2021
 
 
 <h2>Some projects I've worked on...</h2>
