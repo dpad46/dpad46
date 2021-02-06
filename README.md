@@ -1,5 +1,5 @@
-<h1 align="center">Yeet, I'm <a href="https://danielholker.com/">Daniel Holker</a></h1>
-<p align="center">Hi, I'm a third year Computer Science and Music student at McGill University. I like games.</p>
+<h1 align="center">Yeet, I'm <a href="https://danielholker.com/">Daniel Holker</a> 👋</h1>
+<p align="center">I'm a third year Computer Science and Music student at McGill University. I like games.</p>
 
 <h2>Current Projects</h2>
 <li> Ubisoft Game Lab Competition 2021
@@ -14,7 +14,7 @@
   <p>
   <br>
   An online chatroom where players are ducks.<br>
-  Game made in Unity with Server implementation using Node.js/Socket.io. <br>
+  Front-end made in Unity; Back-end implemented using Node.js/Socket.io. <br>
   <a href="https://dpad46.itch.io/ducks-at-the-beach">Download here</a>
   </p>
   </div>
@@ -30,11 +30,27 @@
 
   <p>
   <br>
-  A simple platformer made using Unity.<br>
-  Game shown at Unity Developer Day Montreal alongside others by GameDev McGill. <br>
+  A platformer created for a game jam.<br>
+  Game shown at Unity Developer Day Montréal alongside others by GameDev McGill. <br>
   <a href="https://danielholker.com/mochi">Play here</a>
   </p>
+  <br>
+
   </div>
 
-  <h2>Contact</h2>
-  📧 <a href="mailto:daniel.holker@mail.mcgill.ca">daniel.holker@mail.mcgill.ca</a> || 🌐 <a href="https://danielholker.com/">danielholker.com</a>
+
+<table>
+  <tr>
+    <th><img src="cyberplane.gif" width="100%"><br></th>
+    <th><img src="alteria.gif" width="100%"><br></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Seibaah/The-Fresh-Game-Jam-2021">Cyberplane2077</a></td>
+    <td align="center">Alteria</td>
+  </tr>
+</table>
+
+  <h1></h1>
+  <div align="center">
+    <a href="mailto:daniel.holker@mail.mcgill.ca">📧 daniel.holker@mail.mcgill.ca</a> || <a href="https://danielholker.com/">🌐 danielholker.com</a>
+  </div>
