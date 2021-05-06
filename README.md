@@ -5,7 +5,7 @@
 <li> Ubisoft Game Lab Competition 2021
 
 
-<h2>Some projects I've worked on...</h2>
+<h2>Some stuff I've worked on...</h2>
   <br>
 
   <div align="center">
@@ -35,7 +35,7 @@
   <a href="https://danielholker.com/mochi">Play here</a>
   </p>
   <br>
-
+  <br>
   </div>
 
 
@@ -47,6 +47,15 @@
   <tr>
     <td align="center"><a href="https://github.com/Seibaah/The-Fresh-Game-Jam-2021">Cyberplane2077</a></td>
     <td align="center">Alteria</td>
+  </tr>
+
+  <tr>
+    <th><img src="badapple.gif" width="100%"><br></th>
+    <th><img src="besunder.gif" width="100%"><br></th>
+  </tr>
+  <tr>
+    <td align="center">Bad Apple drawn in Kid Pix</td>
+    <td align="center"><a href="https://github.com/UGL-McGill-2021/lionheart">Besunder<a></td>
   </tr>
 </table>
 
