@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://danielholker.com/">Daniel Holker</a> 👋</h1>
 <p align="center">I'm a third year Computer Science and Music student at McGill University. I like games.</p>
 
-<h2>Current Projects</h2>
-<li> Ubisoft Game Lab Competition 2021
-
-
 <h2>Some stuff I've worked on...</h2>
   <br>
 
