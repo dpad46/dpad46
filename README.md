@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://danielholker.com/">Daniel Holker</a> 👋</h1>
-<p align="center">I'm a third year Computer Science and Music student at McGill University. I like games.</p>
+<p align="center">I'm a Computer Science and Music graduate from McGill University. I like games.</p>
 
 <h2>Some stuff I've worked on...</h2>
   <br>
